@@ -1,0 +1,1 @@
+Here's my intro to blockchain. I plan on building upon this, and also posting what I learn in the BlockchainKnowledge.md file!
